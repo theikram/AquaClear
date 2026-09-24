@@ -115,16 +115,6 @@ npm run start
 
 ---
 
-## 🌐 Deploying to Vercel
-
-1. Push this repository to GitHub.
-2. Go to [Vercel](https://vercel.com/new) and click **Import Project**.
-3. Select your `AquaClear` repository.
-4. Leave framework presets as **Next.js** (all media and environment assets are self-contained in `public/`).
-5. Click **Deploy**. Your site will be live on a global CDN within 60 seconds!
-
----
-
 ## 🔮 Future Roadmap
 
 - [ ] **Urdu Localization (`EN / UR`)**: Complete language toggle with RTL (Right-to-Left) typography support for Pakistani consumers.
