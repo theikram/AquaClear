@@ -11,7 +11,13 @@
 **Pure Water. Pure Confidence.**  
 *A modern, high-performance web experience for Pakistan's premier bottled drinking water brand.*
 
-[Live Preview](#-website-preview) • [Features](#-key-features) • [Tech Stack](#-tech-stack) • [Quick Start](#-quick-start) • [Roadmap](#-future-roadmap)
+[Screenshot](#-website-preview) • [Features](#-key-features) • [Tech Stack](#-tech-stack) • [Quick Start](#-quick-start) • [Roadmap](#-future-roadmap)
+
+<br /><br />
+
+<a href="https://aquaclear-three.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Live_Preview-aquaclear--three.vercel.app-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Preview" height="42" />
+</a>
 
 </div>
 
@@ -19,33 +25,10 @@
 
 ## 📸 Website Preview
 
-> **Full Page Visual Experience:** Below is the complete homepage scroll showcasing the hero banner, interactive bottle carousel, video storytelling, PFA certification preview, and delivery network.
-
 <div align="center">
-
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│  ● ● ●  https://aquaclear.pk                                           │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-<details open>
-<summary><b>🔍 Click to Expand / Scroll Full 9,700px Page</b></summary>
-<br />
-
-<a href="Screenshots/Screenshot.jpeg" target="_blank">
-  <img 
-    src="Screenshots/Screenshot.jpeg" 
-    alt="Aqua Clear Full Website Preview" 
-    width="100%" 
-    style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
-  />
-</a>
-
-<p><em>💡 Tip: Click the image above to inspect the high-resolution 1794 × 9701 capture in full detail.</em></p>
-
-</details>
-
+  <a href="https://aquaclear-three.vercel.app/" target="_blank">
+    <img src="Screenshots/Screenshot.jpeg" alt="Aqua Clear Website Screenshot" width="100%" />
+  </a>
 </div>
 
 ---
